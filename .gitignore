@@ -1,0 +1,11 @@
+cat > .gitignore << 'EOF'
+password.txt
+*.key
+nodekey
+keystore/
+.env
+geth/
+chaindata/
+data_final/
+*.log
+EOF
