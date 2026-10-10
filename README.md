@@ -1,7 +1,8 @@
 cat > README.md << 'EOF'
 # Efikchain Mainnet
 
-- Network ID: 1997
+- Network ID: 199714
+  
 - Consensus: Clique PoA
 - Client: Geth v1.13.15
 - RPC: https://rpc.efikcoin.com
